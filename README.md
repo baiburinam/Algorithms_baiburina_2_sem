@@ -1,4 +1,3 @@
-# Algorithms_baiburina_2_sem
-Programm "Gaussian Elimination".
+Algorithms tasks 2026
 
-Enter the matrix into the console and get the matrix determinant calculated using the Gaussian method.
+Baiburina Malika 104
